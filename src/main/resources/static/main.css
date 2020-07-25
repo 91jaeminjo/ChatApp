@@ -1,0 +1,4 @@
+.chatLog{
+	max-height:10vh;
+	y-overflow:scroll;
+}
